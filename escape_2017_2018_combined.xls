@@ -1,0 +1,73 @@
+Category,State/UT,Cases Reported,Persons Escaped - From lockup,Persons Escaped - Outside Lockup,Persons Escaped - Total,Escapees - Re-Arrested,Escapees - Absconding,Cases against Police for Negligence,Action taken for Negligence - Police Personnel Arrested,Action taken for Negligence - Police Personnel Chargesheeted,Action taken for Negligence - Police Personnel Convicted,Year
+State,Andhra Pradesh,36,3,35,38,33,4,0,0,0,1,2017
+State,Arunachal Pradesh,3,9,1,10,10,0,0,0,0,0,2017
+State,Assam,13,5,9,14,11,3,0,0,0,0,2017
+State,Bihar,62,15,50,65,43,16,0,0,4,0,2017
+State,Chhattisgarh,27,6,24,30,25,8,8,0,0,0,2017
+State,Goa,4,0,4,4,2,1,0,0,0,0,2017
+State,Gujarat,41,7,42,49,39,11,14,23,20,0,2017
+State,Haryana,25,6,22,28,22,1,4,3,3,0,2017
+State,Himachal Pradesh,9,1,11,12,10,1,2,3,5,2,2017
+State,Jammu & Kashmir,11,3,8,11,8,2,3,1,1,0,2017
+State,Jharkhand,9,0,6,6,8,1,3,0,0,0,2017
+State,Karnataka,47,10,40,50,31,9,0,1,0,0,2017
+State,Kerala,35,5,29,34,30,4,0,0,0,0,2017
+State,Madhya Pradesh,319,15,89,104,74,13,0,1,6,5,2017
+State,Maharashtra,115,18,115,133,103,19,5,1,1,0,2017
+State,Manipur,0,1,0,1,1,0,0,0,0,0,2017
+State,Meghalaya,5,0,5,5,3,2,0,0,0,0,2017
+State,Mizoram,36,1,5,6,6,0,0,0,0,0,2017
+State,Nagaland,1,0,1,1,1,0,1,1,0,0,2017
+State,Odisha,43,4,45,49,37,4,0,0,0,0,2017
+State,Punjab,64,8,62,70,68,81,30,31,4,0,2017
+State,Rajasthan,71,5,69,74,82,11,0,0,16,8,2017
+State,Sikkim,0,0,0,0,0,0,0,0,0,0,2017
+State,Tamil Nadu,21,3,20,23,22,1,0,0,0,0,2017
+State,Telangana,24,6,18,24,19,0,2,0,8,0,2017
+State,Tripura,1,1,1,2,1,1,1,0,0,0,2017
+State,Uttar Pradesh,78,19,81,100,72,43,48,91,71,37,2017
+State,Uttarakhand,10,3,7,10,4,1,5,0,5,0,2017
+State,West Bengal,24,4,20,24,15,4,0,0,0,0,2017
+Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,2017
+Union Territory,Chandigarh,3,1,1,2,2,1,1,0,2,0,2017
+Union Territory,D&N Haveli,1,0,1,1,0,0,0,0,0,0,2017
+Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,2017
+Union Territory,Delhi UT,25,0,28,28,21,4,3,1,1,0,2017
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,2017
+Union Territory,Puducherry,0,0,1,1,1,0,0,0,0,0,2017
+State,Andhra Pradesh,26,1,35,36,22,6,3,0,1,0,2018
+State,Arunachal Pradesh,2,2,0,2,2,0,0,0,0,0,2018
+State,Assam,38,25,12,37,6,28,0,0,0,0,2018
+State,Bihar,54,14,50,64,35,18,1,0,1,0,2018
+State,Chhattisgarh,31,5,27,32,24,15,0,0,0,0,2018
+State,Goa,4,0,5,5,4,1,0,0,0,0,2018
+State,Gujarat,38,8,36,44,38,6,11,20,20,0,2018
+State,Haryana,27,10,23,33,16,3,17,12,12,0,2018
+State,Himachal Pradesh,11,1,10,11,11,4,2,7,7,0,2018
+State,Jammu & Kashmir,17,9,9,18,13,4,3,7,6,0,2018
+State,Jharkhand,13,6,9,15,10,2,1,0,0,0,2018
+State,Karnataka,40,4,29,33,23,11,3,0,1,0,2018
+State,Kerala,37,7,30,37,34,2,0,0,0,0,2018
+State,Madhya Pradesh,312,26,80,106,94,22,5,1,1,2,2018
+State,Maharashtra,77,16,71,87,64,11,0,0,0,0,2018
+State,Manipur,0,0,0,0,0,0,0,0,0,0,2018
+State,Meghalaya,3,1,2,3,3,0,0,0,0,0,2018
+State,Mizoram,228,0,6,6,5,0,0,0,0,0,2018
+State,Nagaland,1,2,0,2,1,1,1,1,0,0,2018
+State,Odisha,29,7,39,46,15,13,5,0,0,0,2018
+State,Punjab,53,18,40,58,32,19,23,37,4,1,2018
+State,Rajasthan,54,11,42,53,45,17,0,0,7,2,2018
+State,Sikkim,0,0,0,0,0,0,0,0,0,0,2018
+State,Tamil Nadu,27,5,27,32,28,4,2,0,1,0,2018
+State,Telangana,29,1,28,29,21,8,0,0,0,0,2018
+State,Tripura,4,3,1,4,4,0,0,0,0,0,2018
+State,Uttar Pradesh,77,13,76,89,72,17,52,61,54,4,2018
+State,Uttarakhand,4,0,4,4,4,2,0,0,0,0,2018
+State,West Bengal,19,2,20,22,16,5,0,0,0,0,2018
+Union Territory,A & N Islands,0,0,0,0,0,0,0,0,0,0,2018
+Union Territory,Chandigarh,4,3,4,7,4,1,1,3,0,0,2018
+Union Territory,D&N Haveli,0,0,0,0,0,0,0,0,0,0,2018
+Union Territory,Daman & Diu,0,0,0,0,0,0,0,0,0,0,2018
+Union Territory,Delhi UT,22,3,19,22,10,2,6,0,0,0,2018
+Union Territory,Lakshadweep,0,0,0,0,0,0,0,0,0,0,2018
+Union Territory,Puducherry,0,0,0,0,0,0,0,0,0,0,2018
